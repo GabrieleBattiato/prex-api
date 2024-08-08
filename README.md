@@ -34,6 +34,10 @@ Open the `.env` file and add:
 ```sh
 docker-compose up --build
 ```
+If you are using Docker Compose V2:
+```sh
+docker compose up --build
+```
 
 
 ### Run Migrations
